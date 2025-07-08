@@ -1,0 +1,1085 @@
+.bg-left-top {
+  background-position: left top;
+}
+
+.bg-top {
+  background-position: top;
+}
+
+.bg-right-top {
+  background-position: right top;
+}
+
+.bg-left {
+  background-position: left;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-right {
+  background-position: right;
+}
+
+.bg-left-bottom {
+  background-position: left bottom;
+}
+
+.bg-bottom {
+  background-position: bottom;
+}
+
+.bg-right-bottom {
+  background-position: right bottom;
+}
+
+.bg-x-left {
+  background-position-x: left;
+}
+
+.bg-x-center {
+  background-position-x: center;
+}
+
+.bg-x-right {
+  background-position-x: right;
+}
+
+.bg-y-top {
+  background-position-y: top;
+}
+
+.bg-y-center {
+  background-position-y: center;
+}
+
+.bg-y-bottom {
+  background-position-y: bottom;
+}
+
+.bg-repeat {
+  background-repeat: repeat;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
+.bg-repeat-x {
+  background-repeat: repeat-x;
+}
+
+.bg-repeat-y {
+  background-repeat: repeat-y;
+}
+
+.bg-repeat-round {
+  background-repeat: round;
+}
+
+.bg-repeat-space {
+  background-repeat: space;
+}
+
+.bg-auto {
+  background-size: auto;
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-contain {
+  background-size: contain;
+}
+
+.bg-stretch-to-fill {
+  -unity-background-scale-mode: stretch-to-fill;
+}
+
+.bg-scale-and-crop,
+.bg-contain {
+  -unity-background-scale-mode: scale-and-crop;
+}
+
+.bg-scale-to-fit,
+.bg-cover {
+  -unity-background-scale-mode: scale-and-crop;
+}
+
+.bg-tint-slate-50 {
+  -unity-background-image-tint-color: var(--slate-50);
+}
+
+.bg-tint-slate-100 {
+  -unity-background-image-tint-color: var(--slate-100);
+}
+
+.bg-tint-slate-200 {
+  -unity-background-image-tint-color: var(--slate-200);
+}
+
+.bg-tint-slate-300 {
+  -unity-background-image-tint-color: var(--slate-300);
+}
+
+.bg-tint-slate-400 {
+  -unity-background-image-tint-color: var(--slate-400);
+}
+
+.bg-tint-slate-500 {
+  -unity-background-image-tint-color: var(--slate-500);
+}
+
+.bg-tint-slate-600 {
+  -unity-background-image-tint-color: var(--slate-600);
+}
+
+.bg-tint-slate-700 {
+  -unity-background-image-tint-color: var(--slate-700);
+}
+
+.bg-tint-slate-800 {
+  -unity-background-image-tint-color: var(--slate-800);
+}
+
+.bg-tint-slate-900 {
+  -unity-background-image-tint-color: var(--slate-900);
+}
+
+.bg-tint-slate-950 {
+  -unity-background-image-tint-color: var(--slate-950);
+}
+
+.bg-tint-gray-50 {
+  -unity-background-image-tint-color: var(--gray-50);
+}
+
+.bg-tint-gray-100 {
+  -unity-background-image-tint-color: var(--gray-100);
+}
+
+.bg-tint-gray-200 {
+  -unity-background-image-tint-color: var(--gray-200);
+}
+
+.bg-tint-gray-300 {
+  -unity-background-image-tint-color: var(--gray-300);
+}
+
+.bg-tint-gray-400 {
+  -unity-background-image-tint-color: var(--gray-400);
+}
+
+.bg-tint-gray-500 {
+  -unity-background-image-tint-color: var(--gray-500);
+}
+
+.bg-tint-gray-600 {
+  -unity-background-image-tint-color: var(--gray-600);
+}
+
+.bg-tint-gray-700 {
+  -unity-background-image-tint-color: var(--gray-700);
+}
+
+.bg-tint-gray-800 {
+  -unity-background-image-tint-color: var(--gray-800);
+}
+
+.bg-tint-gray-900 {
+  -unity-background-image-tint-color: var(--gray-900);
+}
+
+.bg-tint-gray-950 {
+  -unity-background-image-tint-color: var(--gray-950);
+}
+
+.bg-tint-zinc-50 {
+  -unity-background-image-tint-color: var(--zinc-50);
+}
+
+.bg-tint-zinc-100 {
+  -unity-background-image-tint-color: var(--zinc-100);
+}
+
+.bg-tint-zinc-200 {
+  -unity-background-image-tint-color: var(--zinc-200);
+}
+
+.bg-tint-zinc-300 {
+  -unity-background-image-tint-color: var(--zinc-300);
+}
+
+.bg-tint-zinc-400 {
+  -unity-background-image-tint-color: var(--zinc-400);
+}
+
+.bg-tint-zinc-500 {
+  -unity-background-image-tint-color: var(--zinc-500);
+}
+
+.bg-tint-zinc-600 {
+  -unity-background-image-tint-color: var(--zinc-600);
+}
+
+.bg-tint-zinc-700 {
+  -unity-background-image-tint-color: var(--zinc-700);
+}
+
+.bg-tint-zinc-800 {
+  -unity-background-image-tint-color: var(--zinc-800);
+}
+
+.bg-tint-zinc-900 {
+  -unity-background-image-tint-color: var(--zinc-900);
+}
+
+.bg-tint-zinc-950 {
+  -unity-background-image-tint-color: var(--zinc-950);
+}
+
+.bg-tint-neutral-50 {
+  -unity-background-image-tint-color: var(--neutral-50);
+}
+
+.bg-tint-neutral-100 {
+  -unity-background-image-tint-color: var(--neutral-100);
+}
+
+.bg-tint-neutral-200 {
+  -unity-background-image-tint-color: var(--neutral-200);
+}
+
+.bg-tint-neutral-300 {
+  -unity-background-image-tint-color: var(--neutral-300);
+}
+
+.bg-tint-neutral-400 {
+  -unity-background-image-tint-color: var(--neutral-400);
+}
+
+.bg-tint-neutral-500 {
+  -unity-background-image-tint-color: var(--neutral-500);
+}
+
+.bg-tint-neutral-600 {
+  -unity-background-image-tint-color: var(--neutral-600);
+}
+
+.bg-tint-neutral-700 {
+  -unity-background-image-tint-color: var(--neutral-700);
+}
+
+.bg-tint-neutral-800 {
+  -unity-background-image-tint-color: var(--neutral-800);
+}
+
+.bg-tint-neutral-900 {
+  -unity-background-image-tint-color: var(--neutral-900);
+}
+
+.bg-tint-neutral-950 {
+  -unity-background-image-tint-color: var(--neutral-950);
+}
+
+.bg-tint-stone-50 {
+  -unity-background-image-tint-color: var(--stone-50);
+}
+
+.bg-tint-stone-100 {
+  -unity-background-image-tint-color: var(--stone-100);
+}
+
+.bg-tint-stone-200 {
+  -unity-background-image-tint-color: var(--stone-200);
+}
+
+.bg-tint-stone-300 {
+  -unity-background-image-tint-color: var(--stone-300);
+}
+
+.bg-tint-stone-400 {
+  -unity-background-image-tint-color: var(--stone-400);
+}
+
+.bg-tint-stone-500 {
+  -unity-background-image-tint-color: var(--stone-500);
+}
+
+.bg-tint-stone-600 {
+  -unity-background-image-tint-color: var(--stone-600);
+}
+
+.bg-tint-stone-700 {
+  -unity-background-image-tint-color: var(--stone-700);
+}
+
+.bg-tint-stone-800 {
+  -unity-background-image-tint-color: var(--stone-800);
+}
+
+.bg-tint-stone-900 {
+  -unity-background-image-tint-color: var(--stone-900);
+}
+
+.bg-tint-stone-950 {
+  -unity-background-image-tint-color: var(--stone-950);
+}
+
+.bg-tint-red-50 {
+  -unity-background-image-tint-color: var(--red-50);
+}
+
+.bg-tint-red-100 {
+  -unity-background-image-tint-color: var(--red-100);
+}
+
+.bg-tint-red-200 {
+  -unity-background-image-tint-color: var(--red-200);
+}
+
+.bg-tint-red-300 {
+  -unity-background-image-tint-color: var(--red-300);
+}
+
+.bg-tint-red-400 {
+  -unity-background-image-tint-color: var(--red-400);
+}
+
+.bg-tint-red-500 {
+  -unity-background-image-tint-color: var(--red-500);
+}
+
+.bg-tint-red-600 {
+  -unity-background-image-tint-color: var(--red-600);
+}
+
+.bg-tint-red-700 {
+  -unity-background-image-tint-color: var(--red-700);
+}
+
+.bg-tint-red-800 {
+  -unity-background-image-tint-color: var(--red-800);
+}
+
+.bg-tint-red-900 {
+  -unity-background-image-tint-color: var(--red-900);
+}
+
+.bg-tint-red-950 {
+  -unity-background-image-tint-color: var(--red-950);
+}
+
+.bg-tint-orange-50 {
+  -unity-background-image-tint-color: var(--orange-50);
+}
+
+.bg-tint-orange-100 {
+  -unity-background-image-tint-color: var(--orange-100);
+}
+
+.bg-tint-orange-200 {
+  -unity-background-image-tint-color: var(--orange-200);
+}
+
+.bg-tint-orange-300 {
+  -unity-background-image-tint-color: var(--orange-300);
+}
+
+.bg-tint-orange-400 {
+  -unity-background-image-tint-color: var(--orange-400);
+}
+
+.bg-tint-orange-500 {
+  -unity-background-image-tint-color: var(--orange-500);
+}
+
+.bg-tint-orange-600 {
+  -unity-background-image-tint-color: var(--orange-600);
+}
+
+.bg-tint-orange-700 {
+  -unity-background-image-tint-color: var(--orange-700);
+}
+
+.bg-tint-orange-800 {
+  -unity-background-image-tint-color: var(--orange-800);
+}
+
+.bg-tint-orange-900 {
+  -unity-background-image-tint-color: var(--orange-900);
+}
+
+.bg-tint-orange-950 {
+  -unity-background-image-tint-color: var(--orange-950);
+}
+
+.bg-tint-amber-50 {
+  -unity-background-image-tint-color: var(--amber-50);
+}
+
+.bg-tint-amber-100 {
+  -unity-background-image-tint-color: var(--amber-100);
+}
+
+.bg-tint-amber-200 {
+  -unity-background-image-tint-color: var(--amber-200);
+}
+
+.bg-tint-amber-300 {
+  -unity-background-image-tint-color: var(--amber-300);
+}
+
+.bg-tint-amber-400 {
+  -unity-background-image-tint-color: var(--amber-400);
+}
+
+.bg-tint-amber-500 {
+  -unity-background-image-tint-color: var(--amber-500);
+}
+
+.bg-tint-amber-600 {
+  -unity-background-image-tint-color: var(--amber-600);
+}
+
+.bg-tint-amber-700 {
+  -unity-background-image-tint-color: var(--amber-700);
+}
+
+.bg-tint-amber-800 {
+  -unity-background-image-tint-color: var(--amber-800);
+}
+
+.bg-tint-amber-900 {
+  -unity-background-image-tint-color: var(--amber-900);
+}
+
+.bg-tint-amber-950 {
+  -unity-background-image-tint-color: var(--amber-950);
+}
+
+.bg-tint-yellow-50 {
+  -unity-background-image-tint-color: var(--yellow-50);
+}
+
+.bg-tint-yellow-100 {
+  -unity-background-image-tint-color: var(--yellow-100);
+}
+
+.bg-tint-yellow-200 {
+  -unity-background-image-tint-color: var(--yellow-200);
+}
+
+.bg-tint-yellow-300 {
+  -unity-background-image-tint-color: var(--yellow-300);
+}
+
+.bg-tint-yellow-400 {
+  -unity-background-image-tint-color: var(--yellow-400);
+}
+
+.bg-tint-yellow-500 {
+  -unity-background-image-tint-color: var(--yellow-500);
+}
+
+.bg-tint-yellow-600 {
+  -unity-background-image-tint-color: var(--yellow-600);
+}
+
+.bg-tint-yellow-700 {
+  -unity-background-image-tint-color: var(--yellow-700);
+}
+
+.bg-tint-yellow-800 {
+  -unity-background-image-tint-color: var(--yellow-800);
+}
+
+.bg-tint-yellow-900 {
+  -unity-background-image-tint-color: var(--yellow-900);
+}
+
+.bg-tint-yellow-950 {
+  -unity-background-image-tint-color: var(--yellow-950);
+}
+
+.bg-tint-lime-50 {
+  -unity-background-image-tint-color: var(--lime-50);
+}
+
+.bg-tint-lime-100 {
+  -unity-background-image-tint-color: var(--lime-100);
+}
+
+.bg-tint-lime-200 {
+  -unity-background-image-tint-color: var(--lime-200);
+}
+
+.bg-tint-lime-300 {
+  -unity-background-image-tint-color: var(--lime-300);
+}
+
+.bg-tint-lime-400 {
+  -unity-background-image-tint-color: var(--lime-400);
+}
+
+.bg-tint-lime-500 {
+  -unity-background-image-tint-color: var(--lime-500);
+}
+
+.bg-tint-lime-600 {
+  -unity-background-image-tint-color: var(--lime-600);
+}
+
+.bg-tint-lime-700 {
+  -unity-background-image-tint-color: var(--lime-700);
+}
+
+.bg-tint-lime-800 {
+  -unity-background-image-tint-color: var(--lime-800);
+}
+
+.bg-tint-lime-900 {
+  -unity-background-image-tint-color: var(--lime-900);
+}
+
+.bg-tint-lime-950 {
+  -unity-background-image-tint-color: var(--lime-950);
+}
+
+.bg-tint-green-50 {
+  -unity-background-image-tint-color: var(--green-50);
+}
+
+.bg-tint-green-100 {
+  -unity-background-image-tint-color: var(--green-100);
+}
+
+.bg-tint-green-200 {
+  -unity-background-image-tint-color: var(--green-200);
+}
+
+.bg-tint-green-300 {
+  -unity-background-image-tint-color: var(--green-300);
+}
+
+.bg-tint-green-400 {
+  -unity-background-image-tint-color: var(--green-400);
+}
+
+.bg-tint-green-500 {
+  -unity-background-image-tint-color: var(--green-500);
+}
+
+.bg-tint-green-600 {
+  -unity-background-image-tint-color: var(--green-600);
+}
+
+.bg-tint-green-700 {
+  -unity-background-image-tint-color: var(--green-700);
+}
+
+.bg-tint-green-800 {
+  -unity-background-image-tint-color: var(--green-800);
+}
+
+.bg-tint-green-900 {
+  -unity-background-image-tint-color: var(--green-900);
+}
+
+.bg-tint-green-950 {
+  -unity-background-image-tint-color: var(--green-950);
+}
+
+.bg-tint-emerald-50 {
+  -unity-background-image-tint-color: var(--emerald-50);
+}
+
+.bg-tint-emerald-100 {
+  -unity-background-image-tint-color: var(--emerald-100);
+}
+
+.bg-tint-emerald-200 {
+  -unity-background-image-tint-color: var(--emerald-200);
+}
+
+.bg-tint-emerald-300 {
+  -unity-background-image-tint-color: var(--emerald-300);
+}
+
+.bg-tint-emerald-400 {
+  -unity-background-image-tint-color: var(--emerald-400);
+}
+
+.bg-tint-emerald-500 {
+  -unity-background-image-tint-color: var(--emerald-500);
+}
+
+.bg-tint-emerald-600 {
+  -unity-background-image-tint-color: var(--emerald-600);
+}
+
+.bg-tint-emerald-700 {
+  -unity-background-image-tint-color: var(--emerald-700);
+}
+
+.bg-tint-emerald-800 {
+  -unity-background-image-tint-color: var(--emerald-800);
+}
+
+.bg-tint-emerald-900 {
+  -unity-background-image-tint-color: var(--emerald-900);
+}
+
+.bg-tint-emerald-950 {
+  -unity-background-image-tint-color: var(--emerald-950);
+}
+
+.bg-tint-teal-50 {
+  -unity-background-image-tint-color: var(--teal-50);
+}
+
+.bg-tint-teal-100 {
+  -unity-background-image-tint-color: var(--teal-100);
+}
+
+.bg-tint-teal-200 {
+  -unity-background-image-tint-color: var(--teal-200);
+}
+
+.bg-tint-teal-300 {
+  -unity-background-image-tint-color: var(--teal-300);
+}
+
+.bg-tint-teal-400 {
+  -unity-background-image-tint-color: var(--teal-400);
+}
+
+.bg-tint-teal-500 {
+  -unity-background-image-tint-color: var(--teal-500);
+}
+
+.bg-tint-teal-600 {
+  -unity-background-image-tint-color: var(--teal-600);
+}
+
+.bg-tint-teal-700 {
+  -unity-background-image-tint-color: var(--teal-700);
+}
+
+.bg-tint-teal-800 {
+  -unity-background-image-tint-color: var(--teal-800);
+}
+
+.bg-tint-teal-900 {
+  -unity-background-image-tint-color: var(--teal-900);
+}
+
+.bg-tint-teal-950 {
+  -unity-background-image-tint-color: var(--teal-950);
+}
+
+.bg-tint-cyan-50 {
+  -unity-background-image-tint-color: var(--cyan-50);
+}
+
+.bg-tint-cyan-100 {
+  -unity-background-image-tint-color: var(--cyan-100);
+}
+
+.bg-tint-cyan-200 {
+  -unity-background-image-tint-color: var(--cyan-200);
+}
+
+.bg-tint-cyan-300 {
+  -unity-background-image-tint-color: var(--cyan-300);
+}
+
+.bg-tint-cyan-400 {
+  -unity-background-image-tint-color: var(--cyan-400);
+}
+
+.bg-tint-cyan-500 {
+  -unity-background-image-tint-color: var(--cyan-500);
+}
+
+.bg-tint-cyan-600 {
+  -unity-background-image-tint-color: var(--cyan-600);
+}
+
+.bg-tint-cyan-700 {
+  -unity-background-image-tint-color: var(--cyan-700);
+}
+
+.bg-tint-cyan-800 {
+  -unity-background-image-tint-color: var(--cyan-800);
+}
+
+.bg-tint-cyan-900 {
+  -unity-background-image-tint-color: var(--cyan-900);
+}
+
+.bg-tint-cyan-950 {
+  -unity-background-image-tint-color: var(--cyan-950);
+}
+
+.bg-tint-sky-50 {
+  -unity-background-image-tint-color: var(--sky-50);
+}
+
+.bg-tint-sky-100 {
+  -unity-background-image-tint-color: var(--sky-100);
+}
+
+.bg-tint-sky-200 {
+  -unity-background-image-tint-color: var(--sky-200);
+}
+
+.bg-tint-sky-300 {
+  -unity-background-image-tint-color: var(--sky-300);
+}
+
+.bg-tint-sky-400 {
+  -unity-background-image-tint-color: var(--sky-400);
+}
+
+.bg-tint-sky-500 {
+  -unity-background-image-tint-color: var(--sky-500);
+}
+
+.bg-tint-sky-600 {
+  -unity-background-image-tint-color: var(--sky-600);
+}
+
+.bg-tint-sky-700 {
+  -unity-background-image-tint-color: var(--sky-700);
+}
+
+.bg-tint-sky-800 {
+  -unity-background-image-tint-color: var(--sky-800);
+}
+
+.bg-tint-sky-900 {
+  -unity-background-image-tint-color: var(--sky-900);
+}
+
+.bg-tint-sky-950 {
+  -unity-background-image-tint-color: var(--sky-950);
+}
+
+.bg-tint-blue-50 {
+  -unity-background-image-tint-color: var(--blue-50);
+}
+
+.bg-tint-blue-100 {
+  -unity-background-image-tint-color: var(--blue-100);
+}
+
+.bg-tint-blue-200 {
+  -unity-background-image-tint-color: var(--blue-200);
+}
+
+.bg-tint-blue-300 {
+  -unity-background-image-tint-color: var(--blue-300);
+}
+
+.bg-tint-blue-400 {
+  -unity-background-image-tint-color: var(--blue-400);
+}
+
+.bg-tint-blue-500 {
+  -unity-background-image-tint-color: var(--blue-500);
+}
+
+.bg-tint-blue-600 {
+  -unity-background-image-tint-color: var(--blue-600);
+}
+
+.bg-tint-blue-700 {
+  -unity-background-image-tint-color: var(--blue-700);
+}
+
+.bg-tint-blue-800 {
+  -unity-background-image-tint-color: var(--blue-800);
+}
+
+.bg-tint-blue-900 {
+  -unity-background-image-tint-color: var(--blue-900);
+}
+
+.bg-tint-blue-950 {
+  -unity-background-image-tint-color: var(--blue-950);
+}
+
+.bg-tint-indigo-50 {
+  -unity-background-image-tint-color: var(--indigo-50);
+}
+
+.bg-tint-indigo-100 {
+  -unity-background-image-tint-color: var(--indigo-100);
+}
+
+.bg-tint-indigo-200 {
+  -unity-background-image-tint-color: var(--indigo-200);
+}
+
+.bg-tint-indigo-300 {
+  -unity-background-image-tint-color: var(--indigo-300);
+}
+
+.bg-tint-indigo-400 {
+  -unity-background-image-tint-color: var(--indigo-400);
+}
+
+.bg-tint-indigo-500 {
+  -unity-background-image-tint-color: var(--indigo-500);
+}
+
+.bg-tint-indigo-600 {
+  -unity-background-image-tint-color: var(--indigo-600);
+}
+
+.bg-tint-indigo-700 {
+  -unity-background-image-tint-color: var(--indigo-700);
+}
+
+.bg-tint-indigo-800 {
+  -unity-background-image-tint-color: var(--indigo-800);
+}
+
+.bg-tint-indigo-900 {
+  -unity-background-image-tint-color: var(--indigo-900);
+}
+
+.bg-tint-indigo-950 {
+  -unity-background-image-tint-color: var(--indigo-950);
+}
+
+.bg-tint-violet-50 {
+  -unity-background-image-tint-color: var(--violet-50);
+}
+
+.bg-tint-violet-100 {
+  -unity-background-image-tint-color: var(--violet-100);
+}
+
+.bg-tint-violet-200 {
+  -unity-background-image-tint-color: var(--violet-200);
+}
+
+.bg-tint-violet-300 {
+  -unity-background-image-tint-color: var(--violet-300);
+}
+
+.bg-tint-violet-400 {
+  -unity-background-image-tint-color: var(--violet-400);
+}
+
+.bg-tint-violet-500 {
+  -unity-background-image-tint-color: var(--violet-500);
+}
+
+.bg-tint-violet-600 {
+  -unity-background-image-tint-color: var(--violet-600);
+}
+
+.bg-tint-violet-700 {
+  -unity-background-image-tint-color: var(--violet-700);
+}
+
+.bg-tint-violet-800 {
+  -unity-background-image-tint-color: var(--violet-800);
+}
+
+.bg-tint-violet-900 {
+  -unity-background-image-tint-color: var(--violet-900);
+}
+
+.bg-tint-violet-950 {
+  -unity-background-image-tint-color: var(--violet-950);
+}
+
+.bg-tint-purple-50 {
+  -unity-background-image-tint-color: var(--purple-50);
+}
+
+.bg-tint-purple-100 {
+  -unity-background-image-tint-color: var(--purple-100);
+}
+
+.bg-tint-purple-200 {
+  -unity-background-image-tint-color: var(--purple-200);
+}
+
+.bg-tint-purple-300 {
+  -unity-background-image-tint-color: var(--purple-300);
+}
+
+.bg-tint-purple-400 {
+  -unity-background-image-tint-color: var(--purple-400);
+}
+
+.bg-tint-purple-500 {
+  -unity-background-image-tint-color: var(--purple-500);
+}
+
+.bg-tint-purple-600 {
+  -unity-background-image-tint-color: var(--purple-600);
+}
+
+.bg-tint-purple-700 {
+  -unity-background-image-tint-color: var(--purple-700);
+}
+
+.bg-tint-purple-800 {
+  -unity-background-image-tint-color: var(--purple-800);
+}
+
+.bg-tint-purple-900 {
+  -unity-background-image-tint-color: var(--purple-900);
+}
+
+.bg-tint-purple-950 {
+  -unity-background-image-tint-color: var(--purple-950);
+}
+
+.bg-tint-fuchsia-50 {
+  -unity-background-image-tint-color: var(--fuchsia-50);
+}
+
+.bg-tint-fuchsia-100 {
+  -unity-background-image-tint-color: var(--fuchsia-100);
+}
+
+.bg-tint-fuchsia-200 {
+  -unity-background-image-tint-color: var(--fuchsia-200);
+}
+
+.bg-tint-fuchsia-300 {
+  -unity-background-image-tint-color: var(--fuchsia-300);
+}
+
+.bg-tint-fuchsia-400 {
+  -unity-background-image-tint-color: var(--fuchsia-400);
+}
+
+.bg-tint-fuchsia-500 {
+  -unity-background-image-tint-color: var(--fuchsia-500);
+}
+
+.bg-tint-fuchsia-600 {
+  -unity-background-image-tint-color: var(--fuchsia-600);
+}
+
+.bg-tint-fuchsia-700 {
+  -unity-background-image-tint-color: var(--fuchsia-700);
+}
+
+.bg-tint-fuchsia-800 {
+  -unity-background-image-tint-color: var(--fuchsia-800);
+}
+
+.bg-tint-fuchsia-900 {
+  -unity-background-image-tint-color: var(--fuchsia-900);
+}
+
+.bg-tint-fuchsia-950 {
+  -unity-background-image-tint-color: var(--fuchsia-950);
+}
+
+.bg-tint-pink-50 {
+  -unity-background-image-tint-color: var(--pink-50);
+}
+
+.bg-tint-pink-100 {
+  -unity-background-image-tint-color: var(--pink-100);
+}
+
+.bg-tint-pink-200 {
+  -unity-background-image-tint-color: var(--pink-200);
+}
+
+.bg-tint-pink-300 {
+  -unity-background-image-tint-color: var(--pink-300);
+}
+
+.bg-tint-pink-400 {
+  -unity-background-image-tint-color: var(--pink-400);
+}
+
+.bg-tint-pink-500 {
+  -unity-background-image-tint-color: var(--pink-500);
+}
+
+.bg-tint-pink-600 {
+  -unity-background-image-tint-color: var(--pink-600);
+}
+
+.bg-tint-pink-700 {
+  -unity-background-image-tint-color: var(--pink-700);
+}
+
+.bg-tint-pink-800 {
+  -unity-background-image-tint-color: var(--pink-800);
+}
+
+.bg-tint-pink-900 {
+  -unity-background-image-tint-color: var(--pink-900);
+}
+
+.bg-tint-pink-950 {
+  -unity-background-image-tint-color: var(--pink-950);
+}
+
+.bg-tint-rose-50 {
+  -unity-background-image-tint-color: var(--rose-50);
+}
+
+.bg-tint-rose-100 {
+  -unity-background-image-tint-color: var(--rose-100);
+}
+
+.bg-tint-rose-200 {
+  -unity-background-image-tint-color: var(--rose-200);
+}
+
+.bg-tint-rose-300 {
+  -unity-background-image-tint-color: var(--rose-300);
+}
+
+.bg-tint-rose-400 {
+  -unity-background-image-tint-color: var(--rose-400);
+}
+
+.bg-tint-rose-500 {
+  -unity-background-image-tint-color: var(--rose-500);
+}
+
+.bg-tint-rose-600 {
+  -unity-background-image-tint-color: var(--rose-600);
+}
+
+.bg-tint-rose-700 {
+  -unity-background-image-tint-color: var(--rose-700);
+}
+
+.bg-tint-rose-800 {
+  -unity-background-image-tint-color: var(--rose-800);
+}
+
+.bg-tint-rose-900 {
+  -unity-background-image-tint-color: var(--rose-900);
+}
+
+.bg-tint-rose-950 {
+  -unity-background-image-tint-color: var(--rose-950);
+}
+
+.bg-tint-black {
+  -unity-background-image-tint-color: #000000;
+}
+
+.bg-tint-white {
+  -unity-background-image-tint-color: #ffffff;
+}

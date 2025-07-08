@@ -1,0 +1,215 @@
+.flex-1 {
+  flex: 1 1 0%;
+}
+
+.flex-auto {
+  flex: 1 1 auto;
+}
+
+.flex-initial {
+  flex: 0 1 auto;
+}
+
+.flex-none {
+  flex: none;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+.grow {
+  flex-grow: 1;
+}
+
+.grow-0 {
+  flex-grow: 0;
+}
+
+.shrink {
+  flex-shrink: 1;
+}
+
+.shrink-0 {
+  flex-shrink: 0;
+}
+
+.basis-px {
+  flex-basis: 1px;
+}
+
+.basis-one-half {
+  flex-basis: 50%;
+}
+
+.basis-one-third {
+  flex-basis: 33.33333%;
+}
+
+.basis-two-thirds {
+  flex-basis: 66.66667%;
+}
+
+.basis-one-fourth {
+  flex-basis: 25%;
+}
+
+.basis-three-fourths {
+  flex-basis: 75%;
+}
+
+.basis-one-fifth {
+  flex-basis: 20%;
+}
+
+.basis-two-fifths {
+  flex-basis: 40%;
+}
+
+.basis-three-fifths {
+  flex-basis: 60%;
+}
+
+.basis-four-fifths {
+  flex-basis: 80%;
+}
+
+.basis-one-sixth {
+  flex-basis: 16.66667%;
+}
+
+.basis-five-sixths {
+  flex-basis: 83.33333%;
+}
+
+.basis-one-twelfth {
+  flex-basis: 8.33333%;
+}
+
+.basis-five-twelfths {
+  flex-basis: 41.66667%;
+}
+
+.basis-seven-twelfths {
+  flex-basis: 58.33333%;
+}
+
+.basis-nine-twelfths {
+  flex-basis: 75%;
+}
+
+.basis-eleven-twelfths {
+  flex-basis: 91.66667%;
+}
+
+.basis-full {
+  flex-basis: 100%;
+}
+
+.content-center {
+  align-content: center;
+}
+
+.content-start {
+  align-content: flex-start;
+}
+
+.content-end {
+  align-content: flex-end;
+}
+
+.content-stretch {
+  align-content: stretch;
+}
+
+.content-auto {
+  align-content: auto;
+}
+
+.items-start {
+  align-items: flex-end;
+}
+
+.items-end {
+  align-items: flex-end;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.items-auto {
+  align-items: auto;
+}
+
+.items-stretch {
+  align-items: stretch;
+}
+
+.self-auto {
+  align-self: auto;
+}
+
+.self-start {
+  align-self: flex-end;
+}
+
+.self-end {
+  align-self: flex-end;
+}
+
+.self-center {
+  align-self: center;
+}
+
+.self-stretch {
+  align-self: stretch;
+}
+
+.self-auto {
+  align-self: auto;
+}
+
+.justify-start {
+  justify-content: flex-start;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
+}

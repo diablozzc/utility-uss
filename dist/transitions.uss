@@ -1,0 +1,203 @@
+.delay-0 {
+  transition-delay: 0s;
+}
+
+.delay-75 {
+  transition-delay: 75ms;
+}
+
+.delay-100 {
+  transition-delay: 100ms;
+}
+
+.delay-150 {
+  transition-delay: 150ms;
+}
+
+.delay-200 {
+  transition-delay: 200ms;
+}
+
+.delay-300 {
+  transition-delay: 300ms;
+}
+
+.delay-500 {
+  transition-delay: 500ms;
+}
+
+.delay-700 {
+  transition-delay: 700ms;
+}
+
+.delay-1000 {
+  transition-delay: 1000ms;
+}
+
+.duration-0 {
+  transition-duration: 0s;
+}
+
+.duration-75 {
+  transition-duration: 75ms;
+}
+
+.duration-100 {
+  transition-duration: 100ms;
+}
+
+.duration-150 {
+  transition-duration: 150ms;
+}
+
+.duration-200 {
+  transition-duration: 200ms;
+}
+
+.duration-300 {
+  transition-duration: 300ms;
+}
+
+.duration-500 {
+  transition-duration: 500ms;
+}
+
+.duration-700 {
+  transition-duration: 700ms;
+}
+
+.duration-1000 {
+  transition-duration: 1000ms;
+}
+
+.transition-none {
+  transition-property: none;
+}
+
+.transition-all {
+  transition-property: all;
+  transition-timing-function: ease-in-out;
+  transition-duration: 150ms;
+}
+
+.transition {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-timing-function: ease-in-out;
+  transition-duration: 150ms;
+}
+
+.transition-colors {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: ease-in-out;
+  transition-duration: 150ms;
+}
+
+.transition-opacity {
+  transition-property: opacity;
+  transition-timing-function: ease-in-out;
+  transition-duration: 150ms;
+}
+
+.transition-shadow {
+  transition-property: box-shadow;
+  transition-timing-function: ease-in-out;
+  transition-duration: 150ms;
+}
+
+.transition-transform {
+  transition-property: transform;
+  transition-timing-function: ease-in-out;
+  transition-duration: 150ms;
+}
+
+.ease {
+  transition-timing-function: ease;
+}
+
+.ease-in {
+  transition-timing-function: ease-in;
+}
+
+.ease-out {
+  transition-timing-function: ease-out;
+}
+
+.ease-in-out {
+  transition-timing-function: ease-in-out;
+}
+
+.linear {
+  transition-timing-function: linear;
+}
+
+.ease-in-sine {
+  transition-timing-function: ease-in-sine;
+}
+
+.ease-out-sine {
+  transition-timing-function: ease-out-sine;
+}
+
+.ease-in-out-sine {
+  transition-timing-function: ease-in-out-sine;
+}
+
+.ease-in-cubic {
+  transition-timing-function: ease-in-cubic;
+}
+
+.ease-out-cubic {
+  transition-timing-function: ease-out-cubic;
+}
+
+.ease-in-out-cubic {
+  transition-timing-function: ease-in-out-cubic;
+}
+
+.ease-in-circ {
+  transition-timing-function: ease-in-circ;
+}
+
+.ease-out-circ {
+  transition-timing-function: ease-out-circ;
+}
+
+.ease-in-out-circ {
+  transition-timing-function: ease-in-out-circ;
+}
+
+.ease-in-elastic {
+  transition-timing-function: ease-in-elastic;
+}
+
+.ease-out-elastic {
+  transition-timing-function: ease-out-elastic;
+}
+
+.ease-in-out-elastic {
+  transition-timing-function: ease-in-out-elastic;
+}
+
+.ease-in-back {
+  transition-timing-function: ease-in-back;
+}
+
+.ease-out-back {
+  transition-timing-function: ease-out-back;
+}
+
+.ease-in-out-back {
+  transition-timing-function: ease-in-out-back;
+}
+
+.ease-in-bounce {
+  transition-timing-function: ease-in-bounce;
+}
+
+.ease-out-bounce {
+  transition-timing-function: ease-out-bounce;
+}
+
+.ease-in-out-bounce {
+  transition-timing-function: ease-in-out-bounce;
+}

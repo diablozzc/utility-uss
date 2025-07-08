@@ -1,0 +1,155 @@
+.opacity-0 {
+  opacity: 0;
+}
+
+.opacity-5 {
+  opacity: 0.05;
+}
+
+.opacity-10 {
+  opacity: 0.1;
+}
+
+.opacity-20 {
+  opacity: 0.2;
+}
+
+.opacity-25 {
+  opacity: 0.25;
+}
+
+.opacity-30 {
+  opacity: 0.3;
+}
+
+.opacity-40 {
+  opacity: 0.4;
+}
+
+.opacity-50 {
+  opacity: 0.5;
+}
+
+.opacity-60 {
+  opacity: 0.6;
+}
+
+.opacity-70 {
+  opacity: 0.7;
+}
+
+.opacity-75 {
+  opacity: 0.75;
+}
+
+.opacity-80 {
+  opacity: 0.8;
+}
+
+.opacity-90 {
+  opacity: 0.9;
+}
+
+.opacity-95 {
+  opacity: 0.95;
+}
+
+.opacity-100 {
+  opacity: 1;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.overflow-visible {
+  overflow: visible;
+}
+
+.overflow-scroll {
+  overflow: scroll;
+}
+
+.cursor-arrow {
+  cursor: arrow;
+}
+
+.cursor-text {
+  cursor: text;
+}
+
+.cursor-resize-vertical {
+  cursor: resize-vertical;
+}
+
+.cursor-resize-horizontal {
+  cursor: resize-horizontal;
+}
+
+.cursor-link {
+  cursor: link;
+}
+
+.cursor-slide-arrow {
+  cursor: slide-arrow;
+}
+
+.cursor-resize-up-right {
+  cursor: resize-up-right;
+}
+
+.cursor-resize-up-left {
+  cursor: resize-up-left;
+}
+
+.cursor-move-arrow {
+  cursor: move-arrow;
+}
+
+.cursor-rotate-arrow {
+  cursor: rotate-arrow;
+}
+
+.cursor-scale-arrow {
+  cursor: scale-arrow;
+}
+
+.cursor-arrow-plus {
+  cursor: arrow-plus;
+}
+
+.cursor-arrow-minus {
+  cursor: arrow-minus;
+}
+
+.cursor-pan {
+  cursor: pan;
+}
+
+.cursor-orbit {
+  cursor: orbit;
+}
+
+.cursor-zoom {
+  cursor: zoom;
+}
+
+.cursor-fps {
+  cursor: fps;
+}
+
+.cursor-split-resize-up-down {
+  cursor: split-resize-up-down;
+}
+
+.cursor-split-resize-left-right {
+  cursor: split-resize-left-right;
+}
